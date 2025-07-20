@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there 👋 I'm Khanyisile Masiya 🎓 
 
-<!--
-**quilalakdu/quilalakdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Student | Tech Enthusiast | Lifelong Learner
+📍 Gauteng, South Africa 
+🎓 Studying Diploma in Information Technology at Belgium Campus (2025 - 2027)
+🚀 About Me I'm currently a student at Belgium Campus, pursuing my Diploma in IT. 
 
-Here are some ideas to get you started:
+I'm passionate about technology and always eager to learn and grow in the field of software development, data science, and digital innovation. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I enjoy solving problems and exploring new tools, frameworks, and technologies to build impactful solutions.
+
+🛠️ Skills & Interests 
+- Programming Fundamentals 
+- Web Development (HTML, CSS) 
+- Software Development Lifecycle 
+- Databases & SQL 
+- Problem Solving & Critical Thinking 
+- Always learning new technologies!
+
+📫 Let's Connect 
+
+- ✉️ Email: [kmasiya5791@gmail.com]
+
+Thanks for visiting! 😊
